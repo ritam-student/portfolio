@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Github, Twitter, Linkedin, Mail, Phone, ExternalLink, Menu, X, Code, BookOpen, Zap, Cpu, Sun, Moon } from 'lucide-react';
 
 function App() {
